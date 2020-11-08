@@ -1,4 +1,4 @@
-Main programming languages: C++ and Java, but i also know web languages (both markdown and programming ones). 
+Main programming languages: C++ and Java, but i also know web languages (both markdown and programming ones).  
 I use Linux Mint 20 operating system.
 
 #### Contact
