@@ -1,5 +1,5 @@
 Main programming languages: C++ and Java.  
-I use Linux Mint 20 operating system.
+My main OS is Arch Linux, but I also have Linux Mint 20.1 and Windows 10.
 
 #### Contact
 Discord (primary): BeetMacol#0944  
