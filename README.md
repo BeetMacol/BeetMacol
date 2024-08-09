@@ -1,10 +1,11 @@
-https://beetmacol.com/
+Hi, I'm Macol.
 
-Main programming languages: C++ and Java.  
-My main OS is Arch Linux, but I also have Linux Mint 20.1 and Windows 10 installed.  
-More info on [my website](https://beetmacol.com/me).
+I do not host my projects on GitHub anymore and will only use this account for contribution to other people's projects.  
+You can find stuff on [my own Forgejo instance](https://beetness.org/) ([Forgejo](https://forgejo.org/) is a FOSS, self-hosted alternative for GitHub). That's also where my friends host their stuff.
 
-#### Contact
-Discord (primary): BeetMacol#0944  
-E-mail: beetmacol@gmail.com  
-CurseForge: https://www.curseforge.com/members/beetmacol
+#### Links & Contact
+
+- Website: <https://beetmacol.com/>
+- Forgejo account: <https://beetness.org/macol>
+- Discord: `BeetMacol`
+- E-mail: `beetmacol@gmail.com`
